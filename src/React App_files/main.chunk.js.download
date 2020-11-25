@@ -1,0 +1,2182 @@
+(this["webpackJsonpyoutube-clone"] = this["webpackJsonpyoutube-clone"] || []).push([["main"],{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css":
+/*!************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/App.css ***!
+  \************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".app__page{\r\n    display: flex;\r\n}", "",{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA;IACI,aAAa;AACjB","sourcesContent":[".app__page{\r\n    display: flex;\r\n}"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Header.css":
+/*!***************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/Header.css ***!
+  \***************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".header{\r\n    display : flex;\r\n    align-items: center;\r\n    justify-content: space-between;\r\n    padding: 20px;\r\n    position: sticky;\r\n    top: 0;\r\n    z-index: 100;\r\n    background-color: white;\r\n}\r\n\r\n.header__logo{\r\n    height: 30px;\r\n    object-fit: contain;\r\n    margin-left: 20px;\r\n}\r\n\r\n.header__input{\r\n    display: flex;\r\n    align-items: center;\r\n    width: 40%;\r\n    border: 1px solid lightgray;\r\n}\r\n\r\n.header__icon{\r\n    margin-right: 8px;\r\n}\r\n.header__inputButton{\r\n    width: 50px !important;\r\n    background-color: #fafafa;\r\n    border-left: 1px solid lightgray;\r\n    color: gray;\r\n}\r\n\r\n.header__icons{\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n\r\n.header__input > input{\r\n    flex: 1 1;\r\n    border: none;\r\n\r\n}", "",{"version":3,"sources":["webpack://src/Header.css"],"names":[],"mappings":"AAAA;IACI,cAAc;IACd,mBAAmB;IACnB,8BAA8B;IAC9B,aAAa;IACb,gBAAgB;IAChB,MAAM;IACN,YAAY;IACZ,uBAAuB;AAC3B;;AAEA;IACI,YAAY;IACZ,mBAAmB;IACnB,iBAAiB;AACrB;;AAEA;IACI,aAAa;IACb,mBAAmB;IACnB,UAAU;IACV,2BAA2B;AAC/B;;AAEA;IACI,iBAAiB;AACrB;AACA;IACI,sBAAsB;IACtB,yBAAyB;IACzB,gCAAgC;IAChC,WAAW;AACf;;AAEA;IACI,aAAa;IACb,mBAAmB;AACvB;;AAEA;IACI,SAAO;IACP,YAAY;;AAEhB","sourcesContent":[".header{\r\n    display : flex;\r\n    align-items: center;\r\n    justify-content: space-between;\r\n    padding: 20px;\r\n    position: sticky;\r\n    top: 0;\r\n    z-index: 100;\r\n    background-color: white;\r\n}\r\n\r\n.header__logo{\r\n    height: 30px;\r\n    object-fit: contain;\r\n    margin-left: 20px;\r\n}\r\n\r\n.header__input{\r\n    display: flex;\r\n    align-items: center;\r\n    width: 40%;\r\n    border: 1px solid lightgray;\r\n}\r\n\r\n.header__icon{\r\n    margin-right: 8px;\r\n}\r\n.header__inputButton{\r\n    width: 50px !important;\r\n    background-color: #fafafa;\r\n    border-left: 1px solid lightgray;\r\n    color: gray;\r\n}\r\n\r\n.header__icons{\r\n    display: flex;\r\n    align-items: center;\r\n}\r\n\r\n.header__input > input{\r\n    flex: 1;\r\n    border: none;\r\n\r\n}"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/RecommendedVideos.css":
+/*!**************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/RecommendedVideos.css ***!
+  \**************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".recommendedVideos{\r\n    flex:0.8 1;\r\n    background-color: #f9f9f9;\r\n}\r\n\r\n.recommendedVideos > h2 {\r\n    margin-left: 5px;\r\n    margin-bottom: 20px;\r\n}\r\n\r\n.recommendedVideos__videos{\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n    justify-content: space-between;\r\n    flex: 1 1 500px;\r\n\r\n}\r\n\r\n@media only screen and (max-width: 600px) {\r\n    .recommendedVideos__videos{\r\n        max-width: 100%;\r\n        width: 500px;\r\n    }\r\n  }", "",{"version":3,"sources":["webpack://src/RecommendedVideos.css"],"names":[],"mappings":"AAAA;IACI,UAAQ;IACR,yBAAyB;AAC7B;;AAEA;IACI,gBAAgB;IAChB,mBAAmB;AACvB;;AAEA;IACI,aAAa;IACb,eAAe;IACf,8BAA8B;IAC9B,eAAe;;AAEnB;;AAEA;IACI;QACI,eAAe;QACf,YAAY;IAChB;EACF","sourcesContent":[".recommendedVideos{\r\n    flex:0.8;\r\n    background-color: #f9f9f9;\r\n}\r\n\r\n.recommendedVideos > h2 {\r\n    margin-left: 5px;\r\n    margin-bottom: 20px;\r\n}\r\n\r\n.recommendedVideos__videos{\r\n    display: flex;\r\n    flex-wrap: wrap;\r\n    justify-content: space-between;\r\n    flex: 1 1 500px;\r\n\r\n}\r\n\r\n@media only screen and (max-width: 600px) {\r\n    .recommendedVideos__videos{\r\n        max-width: 100%;\r\n        width: 500px;\r\n    }\r\n  }"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Sidebar.css":
+/*!****************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/Sidebar.css ***!
+  \****************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".sidebar{\r\n    flex: 0.2 1;\r\n}\r\n\r\n.sidebar > hr{\r\n    height: 1px;\r\n    border: 0;\r\n    background-color: lightgray;\r\n    margin-top: 10px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n@media only screen and (max-width : 600px){\r\n    .sidebar{\r\n        display: none;\r\n    }\r\n}", "",{"version":3,"sources":["webpack://src/Sidebar.css"],"names":[],"mappings":"AAAA;IACI,WAAS;AACb;;AAEA;IACI,WAAW;IACX,SAAS;IACT,2BAA2B;IAC3B,gBAAgB;IAChB,mBAAmB;AACvB;;AAEA;IACI;QACI,aAAa;IACjB;AACJ","sourcesContent":[".sidebar{\r\n    flex: 0.2;\r\n}\r\n\r\n.sidebar > hr{\r\n    height: 1px;\r\n    border: 0;\r\n    background-color: lightgray;\r\n    margin-top: 10px;\r\n    margin-bottom: 10px;\r\n}\r\n\r\n@media only screen and (max-width : 600px){\r\n    .sidebar{\r\n        display: none;\r\n    }\r\n}"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/SidebarRow.css":
+/*!*******************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/SidebarRow.css ***!
+  \*******************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".sidebarRow{\r\n    display: flex;\r\nalign-items: center;\r\npadding: 10px 20px;\r\n}\r\n\r\n.sidebarRow__icon{\r\n    color: gray;\r\n}\r\n\r\n.sidebarRow__title{\r\n    flex: 1 1;\r\n    margin-left: 20px;\r\n    font-size:12px ;\r\n    font-weight: 500;\r\n}\r\n\r\n.sidebarRow:hover{\r\n    background-color: lightgray;\r\n    cursor: pointer;\r\n}\r\n.sidebarRow:hover > .sidebarRow__icon{\r\n    color: red;\r\n}\r\n.sidebarRow:hover > .sidebarRow__title{\r\n    font-weight: bold;\r\n}\r\n\r\n.sidebarRow.selected {\r\n    background-color: lightgray;\r\n}\r\n\r\n.sidebarRow.selected > .sidebarRow__icon{\r\n    color: red;\r\n}\r\n\r\n.sidebarRow.selected > .sidebarRow__title{\r\n    font-weight: bold;\r\n}", "",{"version":3,"sources":["webpack://src/SidebarRow.css"],"names":[],"mappings":"AAAA;IACI,aAAa;AACjB,mBAAmB;AACnB,kBAAkB;AAClB;;AAEA;IACI,WAAW;AACf;;AAEA;IACI,SAAO;IACP,iBAAiB;IACjB,eAAe;IACf,gBAAgB;AACpB;;AAEA;IACI,2BAA2B;IAC3B,eAAe;AACnB;AACA;IACI,UAAU;AACd;AACA;IACI,iBAAiB;AACrB;;AAEA;IACI,2BAA2B;AAC/B;;AAEA;IACI,UAAU;AACd;;AAEA;IACI,iBAAiB;AACrB","sourcesContent":[".sidebarRow{\r\n    display: flex;\r\nalign-items: center;\r\npadding: 10px 20px;\r\n}\r\n\r\n.sidebarRow__icon{\r\n    color: gray;\r\n}\r\n\r\n.sidebarRow__title{\r\n    flex: 1;\r\n    margin-left: 20px;\r\n    font-size:12px ;\r\n    font-weight: 500;\r\n}\r\n\r\n.sidebarRow:hover{\r\n    background-color: lightgray;\r\n    cursor: pointer;\r\n}\r\n.sidebarRow:hover > .sidebarRow__icon{\r\n    color: red;\r\n}\r\n.sidebarRow:hover > .sidebarRow__title{\r\n    font-weight: bold;\r\n}\r\n\r\n.sidebarRow.selected {\r\n    background-color: lightgray;\r\n}\r\n\r\n.sidebarRow.selected > .sidebarRow__icon{\r\n    color: red;\r\n}\r\n\r\n.sidebarRow.selected > .sidebarRow__title{\r\n    font-weight: bold;\r\n}"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/VideoCard.css":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/VideoCard.css ***!
+  \******************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".VideoCard{\r\n    margin-bottom: 40px;\r\n    width: 270px;\r\n}\r\n\r\n.VideoCard__thumbnail{\r\n    height: 250px;\r\n    max-width: 100%;\r\n    width: 400px;\r\n    margin: 20px 20px 0 0 ;\r\n}\r\n.VideoCard__info{\r\n    display: flex;\r\n    margin-top: 10px;\r\n    padding-right: 30px;\r\n}\r\n.VideoCard__text{\r\n    margin__left:15px;\r\n}\r\n.VideoCard__avatar{\r\n    margin-right: 10px;\r\n    height: 30px;\r\n    width: 30px;\r\n}\r\n.VideoCard__text > h4{\r\n    font-size: 14px;\r\n    margin-bottom: 5px;\r\n}\r\n.VideoCard__text>p{\r\n    font-size: 14px;\r\n    color: gray;\r\n}\r\n\r\n@media only screen and (max-width: 600px) {\r\n    ..videoCard{\r\n        max-width: 100%;\r\n        width: 500px;\r\n    }\r\n  }\r\n", "",{"version":3,"sources":["webpack://src/VideoCard.css"],"names":[],"mappings":"AAAA;IACI,mBAAmB;IACnB,YAAY;AAChB;;AAEA;IACI,aAAa;IACb,eAAe;IACf,YAAY;IACZ,sBAAsB;AAC1B;AACA;IACI,aAAa;IACb,gBAAgB;IAChB,mBAAmB;AACvB;AACA;IACI,iBAAiB;AACrB;AACA;IACI,kBAAkB;IAClB,YAAY;IACZ,WAAW;AACf;AACA;IACI,eAAe;IACf,kBAAkB;AACtB;AACA;IACI,eAAe;IACf,WAAW;AACf;;AAEA;IACI;QACI,eAAe;QACf,YAAY;IAChB;EACF","sourcesContent":[".VideoCard{\r\n    margin-bottom: 40px;\r\n    width: 270px;\r\n}\r\n\r\n.VideoCard__thumbnail{\r\n    height: 250px;\r\n    max-width: 100%;\r\n    width: 400px;\r\n    margin: 20px 20px 0 0 ;\r\n}\r\n.VideoCard__info{\r\n    display: flex;\r\n    margin-top: 10px;\r\n    padding-right: 30px;\r\n}\r\n.VideoCard__text{\r\n    margin__left:15px;\r\n}\r\n.VideoCard__avatar{\r\n    margin-right: 10px;\r\n    height: 30px;\r\n    width: 30px;\r\n}\r\n.VideoCard__text > h4{\r\n    font-size: 14px;\r\n    margin-bottom: 5px;\r\n}\r\n.VideoCard__text>p{\r\n    font-size: 14px;\r\n    color: gray;\r\n}\r\n\r\n@media only screen and (max-width: 600px) {\r\n    ..videoCard{\r\n        max-width: 100%;\r\n        width: 500px;\r\n    }\r\n  }\r\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css":
+/*!**************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/index.css ***!
+  \**************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);
+// Imports
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, "*{\n  margin: 0;\n}\nbody {\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\n    sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n", "",{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA;EACE,SAAS;AACX;AACA;EACE,SAAS;EACT;;cAEY;EACZ,mCAAmC;EACnC,kCAAkC;AACpC;;AAEA;EACE;aACW;AACb","sourcesContent":["*{\n  margin: 0;\n}\nbody {\n  margin: 0;\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',\n    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',\n    sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./src/App.css":
+/*!*********************!*\
+  !*** ./src/App.css ***!
+  \*********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./App.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/App.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/App.js":
+/*!********************!*\
+  !*** ./src/App.js ***!
+  \********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./App.css */ "./src/App.css");
+/* harmony import */ var _App_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_App_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _Header__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Header */ "./src/Header.js");
+/* harmony import */ var _Sidebar__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Sidebar */ "./src/Sidebar.js");
+/* harmony import */ var _RecommendedVideos__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./RecommendedVideos */ "./src/RecommendedVideos.js");
+/* harmony import */ var react_router_dom__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-router-dom */ "../node_modules/react-router-dom/esm/react-router-dom.js");
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\App.js";
+
+
+
+
+
+
+
+function App() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "app",
+    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["BrowserRouter"], {
+      children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["Switch"], {
+        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["Route"], {
+          path: "/search",
+          children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_Header__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 14,
+            columnNumber: 9
+          }, this)
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 13,
+          columnNumber: 9
+        }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_router_dom__WEBPACK_IMPORTED_MODULE_6__["Route"], {
+          path: "/",
+          children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_Header__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 17,
+            columnNumber: 9
+          }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+            className: "app__page",
+            children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_Sidebar__WEBPACK_IMPORTED_MODULE_4__["default"], {}, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 19,
+              columnNumber: 7
+            }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_RecommendedVideos__WEBPACK_IMPORTED_MODULE_5__["default"], {}, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 20,
+              columnNumber: 7
+            }, this)]
+          }, void 0, true, {
+            fileName: _jsxFileName,
+            lineNumber: 18,
+            columnNumber: 7
+          }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_Header__WEBPACK_IMPORTED_MODULE_3__["default"], {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 23,
+            columnNumber: 9
+          }, this)]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 16,
+          columnNumber: 9
+        }, this)]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 12,
+        columnNumber: 9
+      }, this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 11,
+      columnNumber: 7
+    }, this)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 10,
+    columnNumber: 5
+  }, this);
+}
+
+_c = App;
+/* harmony default export */ __webpack_exports__["default"] = (App);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "App");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/Header.css":
+/*!************************!*\
+  !*** ./src/Header.css ***!
+  \************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Header.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Header.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Header.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Header.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/Header.js":
+/*!***********************!*\
+  !*** ./src/Header.js ***!
+  \***********************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Header.css */ "./src/Header.css");
+/* harmony import */ var _Header_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Header_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/icons/Menu */ "../node_modules/@material-ui/icons/Menu.js");
+/* harmony import */ var _material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _material_ui_icons_VideoCall__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/icons/VideoCall */ "../node_modules/@material-ui/icons/VideoCall.js");
+/* harmony import */ var _material_ui_icons_VideoCall__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_VideoCall__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _material_ui_icons_Search__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/icons/Search */ "../node_modules/@material-ui/icons/Search.js");
+/* harmony import */ var _material_ui_icons_Search__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Search__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _material_ui_icons_Apps__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/icons/Apps */ "../node_modules/@material-ui/icons/Apps.js");
+/* harmony import */ var _material_ui_icons_Apps__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Apps__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _material_ui_icons_Notifications__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/icons/Notifications */ "../node_modules/@material-ui/icons/Notifications.js");
+/* harmony import */ var _material_ui_icons_Notifications__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Notifications__WEBPACK_IMPORTED_MODULE_7__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\Header.js";
+
+
+
+
+
+
+
+
+function Header() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "header",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+      className: "header__left",
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_3___default.a, {}, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 13,
+        columnNumber: 14
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
+        className: "header__logo",
+        src: "https://img.icons8.com/plasticine/200/000000/youtube.png",
+        alt: "Youtube Icon"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 14,
+        columnNumber: 13
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 12,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+      className: "header__input",
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("input", {
+        placeholder: "Seacrh",
+        type: "text"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 18,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_icons_Search__WEBPACK_IMPORTED_MODULE_5___default.a, {
+        className: "header__inputButton"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 19,
+        columnNumber: 9
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      columnNumber: 9
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+      className: "header__icons",
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_icons_VideoCall__WEBPACK_IMPORTED_MODULE_4___default.a, {
+        className: "header__icon"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 23,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_icons_Apps__WEBPACK_IMPORTED_MODULE_6___default.a, {
+        className: "header__icon"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 24,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_icons_Notifications__WEBPACK_IMPORTED_MODULE_7___default.a, {
+        className: "header__icon"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 25,
+        columnNumber: 9
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
+        height: "32",
+        alt: "My-iamge",
+        width: "32",
+        src: "https://i.pinimg.com/originals/19/d3/c7/19d3c73311beccc67b8f9d1a547f2e3d.jpg"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 26,
+        columnNumber: 9
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 22,
+      columnNumber: 9
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 11,
+    columnNumber: 9
+  }, this);
+}
+
+_c = Header;
+;
+/* harmony default export */ __webpack_exports__["default"] = (Header);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "Header");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/RecommendedVideos.css":
+/*!***********************************!*\
+  !*** ./src/RecommendedVideos.css ***!
+  \***********************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./RecommendedVideos.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/RecommendedVideos.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./RecommendedVideos.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/RecommendedVideos.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./RecommendedVideos.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/RecommendedVideos.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/RecommendedVideos.js":
+/*!**********************************!*\
+  !*** ./src/RecommendedVideos.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _RecommendedVideos_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./RecommendedVideos.css */ "./src/RecommendedVideos.css");
+/* harmony import */ var _RecommendedVideos_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_RecommendedVideos_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _VideoCard__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./VideoCard */ "./src/VideoCard.js");
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\RecommendedVideos.js";
+
+
+
+
+function RecommendedVideos() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "recommendedVideos",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h2", {
+      children: "Recommended"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+      className: "recommendedVideos__videos",
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/60ItHLz5WEA",
+        channelImage: "https://images-na.ssl-images-amazon.com/images/I/41Jx1xOhNhL.jpg",
+        channel: "Alan Walker",
+        views: "2,892,054,442",
+        timestamp: "Dec 4, 2015"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 10,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/ALZHF5UqnU4",
+        channelImage: "https://www.youredm.com/wp-content/uploads/2018/05/marshmello-conducting-sunset-music-festival-smf-2018-rukes.jpg",
+        channel: "Marshmello",
+        views: "1,869,290,863",
+        timestamp: "jul 2, 2016"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 15,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/7wtfhZwyrcc",
+        channelImage: "https://static.billboard.com/files/media/Imagine-Dragons-press-photo-by-Eliot-Lee-Hazel-2018-billboard-1548-compressed.jpg",
+        channel: "ImagineDragons",
+        views: "1,686,331,015",
+        timestamp: "Mar 7, 2017"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 20,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/JGwWNGJdvx8",
+        channelImage: "https://i.pinimg.com/originals/6a/e9/a2/6ae9a224c678b407360e2b7b239ee924.jpg",
+        channel: "Ed Sheeran",
+        views: "5,045,095,998",
+        timestamp: "jan 30, 2017"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 25,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/kJQP7kiw5Fk",
+        channelImage: "https://yt3.ggpht.com/a/AATXAJzxxCAjbTp4REiYb2YSOeIODVGlEBF6ngglse3k=s900-c-k-c0x00ffffff-no-rj",
+        channel: "Luis Fonsi",
+        views: "7,034,234,874",
+        timestamp: "jan 13, 2017"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 30,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/aJOTlE1K90k",
+        channelImage: "https://yt3.ggpht.com/a/AATXAJyWTLsXdrfFcQphqsPdI9Eq12v6LS3fq8QJ-d71gg=s900-c-k-c0x00ffffff-no-rj",
+        channel: "Maroon 5",
+        views: "2,869,990,637",
+        timestamp: "May 31, 2018"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 35,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/pvuN_WvF1to",
+        channelImage: "data:image/jpeg;base64,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",
+        channel: "lil Dicky",
+        views: "281,477,551",
+        timestamp: "April 19, 2019"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 40,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_VideoCard__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        link: "https://www.youtube.com/embed/31crA53Dgu0",
+        channelImage: "https://pbs.twimg.com/profile_images/1281031484971704320/NOH6pnJu_400x400.jpg",
+        channel: "Sia",
+        views: "517,218,065",
+        timestamp: "Mar 21, 2016"
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 45,
+        columnNumber: 17
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }, this);
+}
+
+_c = RecommendedVideos;
+/* harmony default export */ __webpack_exports__["default"] = (RecommendedVideos);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "RecommendedVideos");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/Sidebar.css":
+/*!*************************!*\
+  !*** ./src/Sidebar.css ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Sidebar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Sidebar.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Sidebar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Sidebar.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./Sidebar.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/Sidebar.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/Sidebar.js":
+/*!************************!*\
+  !*** ./src/Sidebar.js ***!
+  \************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _Sidebar_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Sidebar.css */ "./src/Sidebar.css");
+/* harmony import */ var _Sidebar_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Sidebar_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _SidebarRow__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./SidebarRow */ "./src/SidebarRow.js");
+/* harmony import */ var _material_ui_icons_Home__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @material-ui/icons/Home */ "../node_modules/@material-ui/icons/Home.js");
+/* harmony import */ var _material_ui_icons_Home__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Home__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _material_ui_icons_Whatshot__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/icons/Whatshot */ "../node_modules/@material-ui/icons/Whatshot.js");
+/* harmony import */ var _material_ui_icons_Whatshot__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Whatshot__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _material_ui_icons_Subscriptions__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/icons/Subscriptions */ "../node_modules/@material-ui/icons/Subscriptions.js");
+/* harmony import */ var _material_ui_icons_Subscriptions__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Subscriptions__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _material_ui_icons_History__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/icons/History */ "../node_modules/@material-ui/icons/History.js");
+/* harmony import */ var _material_ui_icons_History__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_History__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _material_ui_icons_OndemandVideo__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! @material-ui/icons/OndemandVideo */ "../node_modules/@material-ui/icons/OndemandVideo.js");
+/* harmony import */ var _material_ui_icons_OndemandVideo__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_OndemandVideo__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _material_ui_icons_WatchLater__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! @material-ui/icons/WatchLater */ "../node_modules/@material-ui/icons/WatchLater.js");
+/* harmony import */ var _material_ui_icons_WatchLater__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_WatchLater__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _material_ui_icons_ThumbUpAltOutlined__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @material-ui/icons/ThumbUpAltOutlined */ "../node_modules/@material-ui/icons/ThumbUpAltOutlined.js");
+/* harmony import */ var _material_ui_icons_ThumbUpAltOutlined__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_ThumbUpAltOutlined__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var _material_ui_icons_ExpandMoreOutlined__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! @material-ui/icons/ExpandMoreOutlined */ "../node_modules/@material-ui/icons/ExpandMoreOutlined.js");
+/* harmony import */ var _material_ui_icons_ExpandMoreOutlined__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_ExpandMoreOutlined__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var _material_ui_icons_VideoLibrary__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @material-ui/icons/VideoLibrary */ "../node_modules/@material-ui/icons/VideoLibrary.js");
+/* harmony import */ var _material_ui_icons_VideoLibrary__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_VideoLibrary__WEBPACK_IMPORTED_MODULE_12__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\Sidebar.js";
+
+
+
+
+
+
+
+
+
+
+
+
+
+function Sidebar() {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "sidebar",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      selected: true,
+      Icon: _material_ui_icons_Home__WEBPACK_IMPORTED_MODULE_4___default.a,
+      title: "Home"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_Whatshot__WEBPACK_IMPORTED_MODULE_5___default.a,
+      title: "trending"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 18,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_Subscriptions__WEBPACK_IMPORTED_MODULE_6___default.a,
+      title: "Subscription"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("hr", {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 20,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_VideoLibrary__WEBPACK_IMPORTED_MODULE_12___default.a,
+      title: "Library"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 21,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_History__WEBPACK_IMPORTED_MODULE_7___default.a,
+      title: "History"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 22,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_OndemandVideo__WEBPACK_IMPORTED_MODULE_8___default.a,
+      title: "Your Videos"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 23,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_WatchLater__WEBPACK_IMPORTED_MODULE_9___default.a,
+      title: "Watch Later"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 24,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_ThumbUpAltOutlined__WEBPACK_IMPORTED_MODULE_10___default.a,
+      title: "Liked videos"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 25,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SidebarRow__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      Icon: _material_ui_icons_ExpandMoreOutlined__WEBPACK_IMPORTED_MODULE_11___default.a,
+      title: "Show more"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 26,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("hr", {}, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 27,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 16,
+    columnNumber: 9
+  }, this);
+}
+
+_c = Sidebar;
+/* harmony default export */ __webpack_exports__["default"] = (Sidebar);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "Sidebar");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/SidebarRow.css":
+/*!****************************!*\
+  !*** ./src/SidebarRow.css ***!
+  \****************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./SidebarRow.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/SidebarRow.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./SidebarRow.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/SidebarRow.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./SidebarRow.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/SidebarRow.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/SidebarRow.js":
+/*!***************************!*\
+  !*** ./src/SidebarRow.js ***!
+  \***************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _SidebarRow_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SidebarRow.css */ "./src/SidebarRow.css");
+/* harmony import */ var _SidebarRow_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_SidebarRow_css__WEBPACK_IMPORTED_MODULE_2__);
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\SidebarRow.js";
+
+
+
+function SidebarRow({
+  selected,
+  Icon,
+  title
+}) {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: `sidebarRow ${selected && "selected"}`,
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(Icon, {
+      className: "sidebarRow__icon"
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h2", {
+      className: "sidebarRow__title",
+      children: title
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }, this);
+}
+
+_c = SidebarRow;
+/* harmony default export */ __webpack_exports__["default"] = (SidebarRow);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "SidebarRow");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/VideoCard.css":
+/*!***************************!*\
+  !*** ./src/VideoCard.css ***!
+  \***************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./VideoCard.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/VideoCard.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./VideoCard.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/VideoCard.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./VideoCard.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/VideoCard.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/VideoCard.js":
+/*!**************************!*\
+  !*** ./src/VideoCard.js ***!
+  \**************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _VideoCard_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./VideoCard.css */ "./src/VideoCard.css");
+/* harmony import */ var _VideoCard_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_VideoCard_css__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _material_ui_core_Avatar__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @material-ui/core/Avatar */ "./node_modules/@material-ui/core/esm/Avatar/index.js");
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\VideoCard.js";
+
+
+
+
+function VideoCard({
+  link,
+  title,
+  channel,
+  views,
+  timestamp,
+  channelImage
+}) {
+  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+    className: "VideoCard",
+    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("iframe", {
+      className: "VideoCard__thumbnail",
+      src: link,
+      frameborder: "0",
+      allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture",
+      allowfullscreen: true
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 13
+    }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+      className: "VideoCard__info",
+      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_material_ui_core_Avatar__WEBPACK_IMPORTED_MODULE_3__["default"], {
+        className: "VideoCard__avatar",
+        alt: channel,
+        src: channelImage
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 10,
+        columnNumber: 17
+      }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
+        className: "VideoCard__text",
+        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h4", {
+          children: title
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 12,
+          columnNumber: 21
+        }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
+          children: channel
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 15,
+          columnNumber: 21
+        }, this), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
+          children: [views, " views", /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("br", {}, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 17,
+            columnNumber: 38
+          }, this), timestamp]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 16,
+          columnNumber: 21
+        }, this)]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 11,
+        columnNumber: 17
+      }, this)]
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 13
+    }, this)]
+  }, void 0, true, {
+    fileName: _jsxFileName,
+    lineNumber: 7,
+    columnNumber: 9
+  }, this);
+}
+
+_c = VideoCard;
+/* harmony default export */ __webpack_exports__["default"] = (VideoCard);
+
+var _c;
+
+__webpack_require__.$Refresh$.register(_c, "VideoCard");
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/index.css":
+/*!***********************!*\
+  !*** ./src/index.css ***!
+  \***********************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+var api = __webpack_require__(/*! ../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+            var content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+            content = content.__esModule ? content.default : content;
+
+            if (typeof content === 'string') {
+              content = [[module.i, content, '']];
+            }
+
+var options = {};
+
+options.insert = "head";
+options.singleton = false;
+
+var update = api(content, options);
+
+
+if (true) {
+  if (!content.locals || module.hot.invalidate) {
+    var isEqualLocals = function isEqualLocals(a, b, isNamedExport) {
+  if (!a && b || a && !b) {
+    return false;
+  }
+
+  var p;
+
+  for (p in a) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (a[p] !== b[p]) {
+      return false;
+    }
+  }
+
+  for (p in b) {
+    if (isNamedExport && p === 'default') {
+      // eslint-disable-next-line no-continue
+      continue;
+    }
+
+    if (!a[p]) {
+      return false;
+    }
+  }
+
+  return true;
+};
+    var oldLocals = content.locals;
+
+    module.hot.accept(
+      /*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css",
+      function () {
+        content = __webpack_require__(/*! !../node_modules/css-loader/dist/cjs.js??ref--5-oneOf-4-1!../node_modules/postcss-loader/src??postcss!./index.css */ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/index.css");
+
+              content = content.__esModule ? content.default : content;
+
+              if (typeof content === 'string') {
+                content = [[module.i, content, '']];
+              }
+
+              if (!isEqualLocals(oldLocals, content.locals)) {
+                module.hot.invalidate();
+
+                return;
+              }
+
+              oldLocals = content.locals;
+
+              update(content);
+      }
+    )
+  }
+
+  module.hot.dispose(function() {
+    update();
+  });
+}
+
+module.exports = content.locals || {};
+
+/***/ }),
+
+/***/ "./src/index.js":
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
+/* harmony import */ var react_dom__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react_dom__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./index.css */ "./src/index.css");
+/* harmony import */ var _index_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_index_css__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./App */ "./src/App.js");
+/* harmony import */ var _reportWebVitals__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./reportWebVitals */ "./src/reportWebVitals.js");
+__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+
+var _jsxFileName = "C:\\Users\\Gopi\\Documents\\Youtube clone\\youtube-clone\\src\\index.js";
+
+
+
+
+
+react_dom__WEBPACK_IMPORTED_MODULE_2___default.a.render( /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react__WEBPACK_IMPORTED_MODULE_1___default.a.StrictMode, {
+  children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_App__WEBPACK_IMPORTED_MODULE_4__["default"], {}, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 9,
+    columnNumber: 5
+  }, undefined)
+}, void 0, false, {
+  fileName: _jsxFileName,
+  lineNumber: 8,
+  columnNumber: 3
+}, undefined), document.getElementById('root')); // If you want to start measuring performance in your app, pass a function
+// to log results (for example: reportWebVitals(console.log))
+// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+
+Object(_reportWebVitals__WEBPACK_IMPORTED_MODULE_5__["default"])();
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ "./src/reportWebVitals.js":
+/*!********************************!*\
+  !*** ./src/reportWebVitals.js ***!
+  \********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(__react_refresh_utils__, __react_refresh_error_overlay__) {__webpack_require__.$Refresh$.runtime = __webpack_require__(/*! react-refresh/runtime */ "./node_modules/react-refresh/runtime.js");
+__webpack_require__.$Refresh$.setup(module.i);
+
+const reportWebVitals = onPerfEntry => {
+  if (onPerfEntry && onPerfEntry instanceof Function) {
+    __webpack_require__.e(/*! import() */ 1).then(__webpack_require__.bind(null, /*! web-vitals */ "./node_modules/web-vitals/dist/web-vitals.es5.min.js")).then(({
+      getCLS,
+      getFID,
+      getFCP,
+      getLCP,
+      getTTFB
+    }) => {
+      getCLS(onPerfEntry);
+      getFID(onPerfEntry);
+      getFCP(onPerfEntry);
+      getLCP(onPerfEntry);
+      getTTFB(onPerfEntry);
+    });
+  }
+};
+
+/* harmony default export */ __webpack_exports__["default"] = (reportWebVitals);
+
+const currentExports = __react_refresh_utils__.getModuleExports(module.i);
+__react_refresh_utils__.registerExportsForReactRefresh(currentExports, module.i);
+
+if (true) {
+  const isHotUpdate = !!module.hot.data;
+  const prevExports = isHotUpdate ? module.hot.data.prevExports : null;
+
+  if (__react_refresh_utils__.isReactRefreshBoundary(currentExports)) {
+    module.hot.dispose(
+      /**
+       * A callback to performs a full refresh if React has unrecoverable errors,
+       * and also caches the to-be-disposed module.
+       * @param {*} data A hot module data object from Webpack HMR.
+       * @returns {void}
+       */
+      function hotDisposeCallback(data) {
+        // We have to mutate the data object to get data registered and cached
+        data.prevExports = currentExports;
+      }
+    );
+    module.hot.accept(
+      /**
+       * An error handler to allow self-recovering behaviours.
+       * @param {Error} error An error occurred during evaluation of a module.
+       * @returns {void}
+       */
+      function hotErrorHandler(error) {
+        if (
+          typeof __react_refresh_error_overlay__ !== 'undefined' &&
+          __react_refresh_error_overlay__
+        ) {
+          __react_refresh_error_overlay__.handleRuntimeError(error);
+        }
+
+        if (typeof __react_refresh_test__ !== 'undefined' && __react_refresh_test__) {
+          if (window.onHotAcceptError) {
+            window.onHotAcceptError(error.message);
+          }
+        }
+
+        __webpack_require__.c[module.i].hot.accept(hotErrorHandler);
+      }
+    );
+
+    if (isHotUpdate) {
+      if (
+        __react_refresh_utils__.isReactRefreshBoundary(prevExports) &&
+        __react_refresh_utils__.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)
+      ) {
+        module.hot.invalidate();
+      } else {
+        __react_refresh_utils__.enqueueUpdate(
+          /**
+           * A function to dismiss the error overlay after performing React refresh.
+           * @returns {void}
+           */
+          function updateCallback() {
+            if (
+              typeof __react_refresh_error_overlay__ !== 'undefined' &&
+              __react_refresh_error_overlay__
+            ) {
+              __react_refresh_error_overlay__.clearRuntimeErrors();
+            }
+          }
+        );
+      }
+    }
+  } else {
+    if (isHotUpdate && __react_refresh_utils__.isReactRefreshBoundary(prevExports)) {
+      module.hot.invalidate();
+    }
+  }
+}
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"), __webpack_require__(/*! ./node_modules/react-dev-utils/refreshOverlayInterop.js */ "./node_modules/react-dev-utils/refreshOverlayInterop.js")))
+
+/***/ }),
+
+/***/ 1:
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** multi (webpack)/hot/dev-server.js ./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js ./node_modules/react-dev-utils/webpackHotDevClient.js ./src/index.js ***!
+  \**********************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+__webpack_require__(/*! C:\Users\Gopi\Documents\Youtube clone\youtube-clone\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
+__webpack_require__(/*! C:\Users\Gopi\Documents\Youtube clone\youtube-clone\node_modules\@pmmmwh\react-refresh-webpack-plugin\client\ReactRefreshEntry.js */"./node_modules/@pmmmwh/react-refresh-webpack-plugin/client/ReactRefreshEntry.js");
+__webpack_require__(/*! C:\Users\Gopi\Documents\Youtube clone\youtube-clone\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! C:\Users\Gopi\Documents\Youtube clone\youtube-clone\src\index.js */"./src/index.js");
+
+
+/***/ })
+
+},[[1,"runtime-main",0]]]);
+//# sourceMappingURL=main.chunk.js.map
